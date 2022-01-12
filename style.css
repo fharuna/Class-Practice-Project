@@ -1,0 +1,13 @@
+*{background-color: thistle;}
+
+nav-bar {
+    display: inline-black;
+    padding: 20 px;
+    width: 100%;
+    background-color: green;
+    color: white;
+    float: right;
+}
+h1 {
+    text-align:center;
+}
